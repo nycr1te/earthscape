@@ -1,5 +1,2 @@
-<div style="text-align:center;">
-  
-  <h1>game</h1>
-  
-</div>
+# Earthscape
+A work-in-progress game that takes place in 1999.
